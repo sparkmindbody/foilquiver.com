@@ -11,6 +11,7 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
+    "CNAME/CNAME": "/CNAME/CNAME",
     "main.01eefa03.js.map": "/static/js/main.01eefa03.js.map",
     "185.8a2b33e3.js.map": "/static/js/185.8a2b33e3.js.map"
   },
