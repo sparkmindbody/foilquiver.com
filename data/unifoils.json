@@ -1,0 +1,404 @@
+{
+  "foils": [
+    {
+      "id": "unifoil-evolution-115-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 115 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 873,
+        "area": 741,
+        "areaImperial": 115,
+        "chord": 104,
+        "aspectRatio": 10
+      },
+      "price": 825,
+      "sourceUrl": "https://uni-foil.com/products/evolution-155-front-wing-copy"
+    },
+    {
+      "id": "unifoil-evolution-135-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 135 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 914,
+        "area": 870,
+        "areaImperial": 135,
+        "chord": 111,
+        "aspectRatio": 9.6
+      },
+      "price": 875,
+      "sourceUrl": "https://uni-foil.com/products/evolution-135-front-wing"
+    },
+    {
+      "id": "unifoil-evolution-155-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 155 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 982,
+        "area": 1000,
+        "areaImperial": 155,
+        "chord": 120,
+        "aspectRatio": 9.6
+      },
+      "price": 925,
+      "sourceUrl": "https://uni-foil.com/products/evolution-155-front-wing"
+    },
+    {
+      "id": "unifoil-evolution-175-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 175 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 1059,
+        "area": 1129,
+        "areaImperial": 175,
+        "chord": 128,
+        "aspectRatio": 9.7
+      },
+      "price": 975,
+      "sourceUrl": "https://uni-foil.com/products/evolution-175-front-wing"
+    },
+    {
+      "id": "unifoil-evolution-205-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 205 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 1154,
+        "area": 1322,
+        "areaImperial": 205,
+        "chord": 138,
+        "aspectRatio": 10
+      },
+      "price": 1025,
+      "sourceUrl": "https://uni-foil.com/products/evolution-205-front-wing"
+    },
+    {
+      "id": "unifoil-evolution-235-front-wing",
+      "brand": "Uni Foil",
+      "model": "Evolution 235 Front Wing",
+      "series": "Evolution",
+      "type": "front",
+      "specs": {
+        "wingspan": 1232,
+        "area": 1516,
+        "areaImperial": 235,
+        "chord": 148,
+        "aspectRatio": 10
+      },
+      "price": 1075,
+      "sourceUrl": "https://uni-foil.com/products/evolution-235-front-wing"
+    },
+    {
+      "id": "unifoil-progression-100-front-wing",
+      "brand": "Uni Foil",
+      "model": "Progression 100 Front Wing",
+      "series": "Progression",
+      "type": "front",
+      "specs": {
+        "wingspan": 824,
+        "area": 645,
+        "areaImperial": 100,
+        "chord": 109,
+        "aspectRatio": 10.5
+      },
+      "price": 800,
+      "sourceUrl": "https://uni-foil.com/products/progression-100-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-progression-125-front-wing",
+      "brand": "Uni Foil",
+      "model": "Progression 125 Front Wing",
+      "series": "Progression",
+      "type": "front",
+      "specs": {
+        "wingspan": 898,
+        "area": 806,
+        "areaImperial": 125,
+        "chord": 116,
+        "aspectRatio": 10
+      },
+      "price": 800,
+      "sourceUrl": "https://uni-foil.com/products/progression-125-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-progression-140-front-wing",
+      "brand": "Uni Foil",
+      "model": "Progression 140 Front Wing",
+      "series": "Progression",
+      "type": "front",
+      "specs": {
+        "wingspan": 898,
+        "area": 903,
+        "areaImperial": 145,
+        "chord": 130,
+        "aspectRatio": 8.9
+      },
+      "price": 850,
+      "sourceUrl": "https://uni-foil.com/products/progression-140-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-progression-170-front-wing",
+      "brand": "Uni Foil",
+      "model": "Progression 170 Front Wing",
+      "series": "Progression",
+      "type": "front",
+      "specs": {
+        "wingspan": 953,
+        "area": 1097,
+        "areaImperial": 170,
+        "chord": 145,
+        "aspectRatio": 8.3
+      },
+      "price": 900,
+      "sourceUrl": "https://uni-foil.com/products/progression-170-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-progression-200-front-wing",
+      "brand": "Uni Foil",
+      "model": "Progression 200 Front Wing",
+      "series": "Progression",
+      "type": "front",
+      "specs": {
+        "wingspan": 1037,
+        "area": 1290,
+        "areaImperial": 200,
+        "chord": 155,
+        "aspectRatio": 8.3
+      },
+      "price": 950,
+      "sourceUrl": "https://uni-foil.com/products/progression-200-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-vyper-90-front-wing",
+      "brand": "Uni Foil",
+      "model": "Vyper 90 Front Wing",
+      "series": "Vyper",
+      "type": "front",
+      "specs": {
+        "wingspan": 650,
+        "area": 580,
+        "areaImperial": 90,
+        "chord": 115,
+        "aspectRatio": 7.3
+      },
+      "price": 420,
+      "sourceUrl": "https://uni-foil.com/products/vyper-90-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-vyper-130-front-wing",
+      "brand": "Uni Foil",
+      "model": "Vyper 130 Front Wing",
+      "series": "Vyper",
+      "type": "front",
+      "specs": {
+        "wingspan": 696,
+        "area": 839,
+        "areaImperial": 130,
+        "chord": 140,
+        "aspectRatio": 5.7
+      },
+      "price": 450,
+      "sourceUrl": "https://uni-foil.com/products/vyper-130-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-vyper-150-front-wing",
+      "brand": "Uni Foil",
+      "model": "Vyper 150 Front Wing",
+      "series": "Vyper",
+      "type": "front",
+      "specs": {
+        "wingspan": 753,
+        "area": 968,
+        "areaImperial": 150,
+        "chord": 148,
+        "aspectRatio": 5.8
+      },
+      "price": 480,
+      "sourceUrl": "https://uni-foil.com/products/vyper-150-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-vyper-170-front-wing",
+      "brand": "Uni Foil",
+      "model": "Vyper 170 Front Wing",
+      "series": "Vyper",
+      "type": "front",
+      "specs": {
+        "wingspan": 815,
+        "area": 1097,
+        "areaImperial": 170,
+        "chord": 160,
+        "aspectRatio": 6
+      },
+      "price": 510,
+      "sourceUrl": "https://uni-foil.com/products/vyper-170-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-vyper-190-front-wing",
+      "brand": "Uni Foil",
+      "model": "Vyper 190 Front Wing",
+      "series": "Vyper",
+      "type": "front",
+      "specs": {
+        "wingspan": 865,
+        "area": 1226,
+        "areaImperial": 190,
+        "chord": 174,
+        "aspectRatio": 6.1
+      },
+      "price": 540,
+      "sourceUrl": "https://uni-foil.com/products/vyper-190-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-hyper2-150-front-wing",
+      "brand": "Uni Foil",
+      "model": "Hyper2 150 Front Wing",
+      "series": "Hyper2",
+      "type": "front",
+      "specs": {
+        "wingspan": 857,
+        "area": 968,
+        "areaImperial": 150,
+        "chord": 128,
+        "aspectRatio": 7.6
+      },
+      "price": 480,
+      "sourceUrl": "https://uni-foil.com/products/hyper-2-150-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-hyper2-170-front-wing",
+      "brand": "Uni Foil",
+      "model": "Hyper2 170 Front Wing",
+      "series": "Hyper2",
+      "type": "front",
+      "specs": {
+        "wingspan": 920,
+        "area": 1097,
+        "areaImperial": 170,
+        "chord": 145,
+        "aspectRatio": 8
+      },
+      "price": 510,
+      "sourceUrl": "https://uni-foil.com/products/hyper-2-170-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-hyper2-190-front-wing",
+      "brand": "Uni Foil",
+      "model": "Hyper2 190 Front Wing",
+      "series": "Hyper2",
+      "type": "front",
+      "specs": {
+        "wingspan": 952,
+        "area": 1226,
+        "areaImperial": 190,
+        "chord": 157,
+        "aspectRatio": 7.5
+      },
+      "price": 540,
+      "sourceUrl": "https://uni-foil.com/products/hyper-2-190-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-hyper2-210-front-wing",
+      "brand": "Uni Foil",
+      "model": "Hyper2 210 Front Wing",
+      "series": "Hyper2",
+      "type": "front",
+      "specs": {
+        "wingspan": 985,
+        "area": 1355,
+        "areaImperial": 210,
+        "chord": 170,
+        "aspectRatio": 7.3
+      },
+      "price": 570,
+      "sourceUrl": "https://uni-foil.com/products/hyper-2-210-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-hyper2-250-front-wing",
+      "brand": "Uni Foil",
+      "model": "Hyper2 250 Front Wing",
+      "series": "Hyper2",
+      "type": "front",
+      "specs": {
+        "wingspan": 1120,
+        "area": 1613,
+        "areaImperial": 250,
+        "chord": 170,
+        "aspectRatio": 7.7
+      },
+      "price": 600,
+      "sourceUrl": "https://uni-foil.com/products/hyper-2-250-front-wing-with-cover"
+    },
+    {
+      "id": "unifoil-progression-13-5-carbon-tail",
+      "brand": "Uni Foil",
+      "model": "Progression 13.5\" Carbon Tail",
+      "series": "Evolution",
+      "type": "tail",
+      "specs": {
+        "wingspan": 0,
+        "area": 0,
+        "areaImperial": 0,
+        "chord": 0,
+        "aspectRatio": 0
+      },
+      "price": 275,
+      "sourceUrl": "https://uni-foil.com/products/progression-13-5-carbon-tail-with-cover"
+    },
+    {
+      "id": "unifoil-progression-14-5-carbon-tail",
+      "brand": "Uni Foil",
+      "model": "Progression 14.5\" Carbon Tail",
+      "series": "Evolution",
+      "type": "tail",
+      "specs": {
+        "wingspan": 0,
+        "area": 0,
+        "areaImperial": 0,
+        "chord": 0,
+        "aspectRatio": 0
+      },
+      "price": 275,
+      "sourceUrl": "https://uni-foil.com/products/progression-14-5-carbon-tail-with-cover"
+    },
+    {
+      "id": "unifoil-13-carbon-tail-3-pack-shunt-shiv-shank-",
+      "brand": "Uni Foil",
+      "model": "13\" Carbon Tail 3 Pack (Shunt, Shiv, Shank)",
+      "series": "Evolution",
+      "type": "tail",
+      "specs": {
+        "wingspan": 0,
+        "area": 0,
+        "areaImperial": 0,
+        "chord": 0,
+        "aspectRatio": 0
+      },
+      "price": 400,
+      "sourceUrl": "https://uni-foil.com/products/13-carbon-tail-3-pack-shunt-shiv-shank"
+    },
+    {
+      "id": "unifoil-14-carbon-tail-3-pack-shunt-shiv-shank-",
+      "brand": "Uni Foil",
+      "model": "14\" Carbon Tail 3 Pack (Shunt, Shiv, Shank)",
+      "series": "Evolution",
+      "type": "tail",
+      "specs": {
+        "wingspan": 0,
+        "area": 0,
+        "areaImperial": 0,
+        "chord": 0,
+        "aspectRatio": 0
+      },
+      "price": 400,
+      "sourceUrl": "https://uni-foil.com/products/14-carbon-tail-3-pack-shunt-shiv-shank"
+    }
+  ]
+}
