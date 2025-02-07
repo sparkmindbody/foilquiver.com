@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.74193bba.js",
-    "static/js/401.4aeca51d.js": "/static/js/401.4aeca51d.js",
+    "main.js": "/static/js/main.5f7bcd9a.js",
+    "static/js/505.3f30e57c.js": "/static/js/505.3f30e57c.js",
     "static/media/Ionicons.ttf": "/static/media/Ionicons.9b6b1954a5eb6efeaf11.ttf",
     ".cache/axis-foils.json": "/.cache/axis-foils.json",
     "favicon.ico": "/favicon.ico",
@@ -11,14 +11,16 @@
     ".cache/uni-foil.json": "/.cache/uni-foil.json",
     ".cache/code-foils.json": "/.cache/code-foils.json",
     ".cache/kt-foils.json": "/.cache/kt-foils.json",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
-    "main.74193bba.js.map": "/static/js/main.74193bba.js.map",
-    "401.4aeca51d.js.map": "/static/js/401.4aeca51d.js.map"
+    "main.5f7bcd9a.js.map": "/static/js/main.5f7bcd9a.js.map",
+    "505.3f30e57c.js.map": "/static/js/505.3f30e57c.js.map"
   },
   "entrypoints": [
-    "static/js/401.4aeca51d.js",
-    "static/js/main.74193bba.js"
+    "static/js/505.3f30e57c.js",
+    "static/js/main.5f7bcd9a.js"
   ]
 }
