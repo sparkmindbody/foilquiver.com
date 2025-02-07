@@ -27,6 +27,7 @@
     ".cache/code-foils.json": "/.cache/code-foils.json",
     ".cache/kt-foils.json": "/.cache/kt-foils.json",
     "favicon-32.png": "/favicon-32.png",
+    "404.html": "/404.html",
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
