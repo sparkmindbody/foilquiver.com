@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.c16757c9.js",
-    "runtime.js": "/static/js/runtime.1de7c48f.js",
-    "static/js/167.2f5e89c1.chunk.js": "/static/js/167.2f5e89c1.chunk.js",
-    "static/js/951.8b2354d5.chunk.js": "/static/js/951.8b2354d5.chunk.js",
+    "main.js": "/static/js/main.844a5383.js",
+    "runtime.js": "/static/js/runtime.a0ab4f2f.js",
+    "static/js/167.07fe4507.chunk.js": "/static/js/167.07fe4507.chunk.js",
+    "static/js/951.1b078db6.chunk.js": "/static/js/951.1b078db6.chunk.js",
     "static/js/50.1d3f1294.chunk.js": "/static/js/50.1d3f1294.chunk.js",
-    "static/js/503.c9ed5aed.chunk.js": "/static/js/503.c9ed5aed.chunk.js",
-    "static/js/375.0b87e2b1.js": "/static/js/375.0b87e2b1.js",
+    "static/js/503.5dc838f6.chunk.js": "/static/js/503.5dc838f6.chunk.js",
+    "static/js/521.56a34d95.js": "/static/js/521.56a34d95.js",
     "fonts/MaterialCommunityIcons.ttf": "/fonts/MaterialCommunityIcons.ttf",
     "fonts/Ionicons.ttf": "/fonts/Ionicons.ttf",
     "fonts/FontAwesome6_Solid.ttf": "/fonts/FontAwesome6_Solid.ttf",
@@ -41,17 +41,17 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
-    "main.c16757c9.js.map": "/static/js/main.c16757c9.js.map",
-    "runtime.1de7c48f.js.map": "/static/js/runtime.1de7c48f.js.map",
-    "167.2f5e89c1.chunk.js.map": "/static/js/167.2f5e89c1.chunk.js.map",
-    "951.8b2354d5.chunk.js.map": "/static/js/951.8b2354d5.chunk.js.map",
+    "main.844a5383.js.map": "/static/js/main.844a5383.js.map",
+    "runtime.a0ab4f2f.js.map": "/static/js/runtime.a0ab4f2f.js.map",
+    "167.07fe4507.chunk.js.map": "/static/js/167.07fe4507.chunk.js.map",
+    "951.1b078db6.chunk.js.map": "/static/js/951.1b078db6.chunk.js.map",
     "50.1d3f1294.chunk.js.map": "/static/js/50.1d3f1294.chunk.js.map",
-    "503.c9ed5aed.chunk.js.map": "/static/js/503.c9ed5aed.chunk.js.map",
-    "375.0b87e2b1.js.map": "/static/js/375.0b87e2b1.js.map"
+    "503.5dc838f6.chunk.js.map": "/static/js/503.5dc838f6.chunk.js.map",
+    "521.56a34d95.js.map": "/static/js/521.56a34d95.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.1de7c48f.js",
-    "static/js/375.0b87e2b1.js",
-    "static/js/main.c16757c9.js"
+    "static/js/runtime.a0ab4f2f.js",
+    "static/js/521.56a34d95.js",
+    "static/js/main.844a5383.js"
   ]
 }
