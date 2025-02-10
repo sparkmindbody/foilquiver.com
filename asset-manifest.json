@@ -1,8 +1,8 @@
 {
   "files": {
     "main.js": "/static/js/main.844a5383.js",
-    "runtime.js": "/static/js/runtime.71a25acc.js",
-    "static/js/167.d44084e7.chunk.js": "/static/js/167.d44084e7.chunk.js",
+    "runtime.js": "/static/js/runtime.eeee2648.js",
+    "static/js/167.2d6c4f73.chunk.js": "/static/js/167.2d6c4f73.chunk.js",
     "static/js/951.1b078db6.chunk.js": "/static/js/951.1b078db6.chunk.js",
     "static/js/50.1d3f1294.chunk.js": "/static/js/50.1d3f1294.chunk.js",
     "static/js/503.5dc838f6.chunk.js": "/static/js/503.5dc838f6.chunk.js",
@@ -42,15 +42,15 @@
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
     "main.844a5383.js.map": "/static/js/main.844a5383.js.map",
-    "runtime.71a25acc.js.map": "/static/js/runtime.71a25acc.js.map",
-    "167.d44084e7.chunk.js.map": "/static/js/167.d44084e7.chunk.js.map",
+    "runtime.eeee2648.js.map": "/static/js/runtime.eeee2648.js.map",
+    "167.2d6c4f73.chunk.js.map": "/static/js/167.2d6c4f73.chunk.js.map",
     "951.1b078db6.chunk.js.map": "/static/js/951.1b078db6.chunk.js.map",
     "50.1d3f1294.chunk.js.map": "/static/js/50.1d3f1294.chunk.js.map",
     "503.5dc838f6.chunk.js.map": "/static/js/503.5dc838f6.chunk.js.map",
     "521.56a34d95.js.map": "/static/js/521.56a34d95.js.map"
   },
   "entrypoints": [
-    "static/js/runtime.71a25acc.js",
+    "static/js/runtime.eeee2648.js",
     "static/js/521.56a34d95.js",
     "static/js/main.844a5383.js"
   ]
