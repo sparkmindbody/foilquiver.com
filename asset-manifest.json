@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.944d7dcd.js",
+    "main.js": "/static/js/main.c2206745.js",
     "runtime.js": "/static/js/runtime.c0985020.js",
     "static/js/732.c16cd0b4.chunk.js": "/static/js/732.c16cd0b4.chunk.js",
     "static/js/269.5995c9bf.chunk.js": "/static/js/269.5995c9bf.chunk.js",
@@ -9,7 +9,7 @@
     "static/js/951.51a7504e.chunk.js": "/static/js/951.51a7504e.chunk.js",
     "static/js/50.1a34a4b7.chunk.js": "/static/js/50.1a34a4b7.chunk.js",
     "static/js/553.fcbba5fd.chunk.js": "/static/js/553.fcbba5fd.chunk.js",
-    "static/js/652.3f6238eb.js": "/static/js/652.3f6238eb.js",
+    "static/js/254.171e2000.js": "/static/js/254.171e2000.js",
     "fonts/MaterialCommunityIcons.ttf": "/fonts/MaterialCommunityIcons.ttf",
     "fonts/Ionicons.ttf": "/fonts/Ionicons.ttf",
     "fonts/FontAwesome6_Solid.ttf": "/fonts/FontAwesome6_Solid.ttf",
@@ -44,7 +44,7 @@
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
     "CNAME": "/CNAME",
-    "main.944d7dcd.js.map": "/static/js/main.944d7dcd.js.map",
+    "main.c2206745.js.map": "/static/js/main.c2206745.js.map",
     "runtime.c0985020.js.map": "/static/js/runtime.c0985020.js.map",
     "732.c16cd0b4.chunk.js.map": "/static/js/732.c16cd0b4.chunk.js.map",
     "269.5995c9bf.chunk.js.map": "/static/js/269.5995c9bf.chunk.js.map",
@@ -53,11 +53,11 @@
     "951.51a7504e.chunk.js.map": "/static/js/951.51a7504e.chunk.js.map",
     "50.1a34a4b7.chunk.js.map": "/static/js/50.1a34a4b7.chunk.js.map",
     "553.fcbba5fd.chunk.js.map": "/static/js/553.fcbba5fd.chunk.js.map",
-    "652.3f6238eb.js.map": "/static/js/652.3f6238eb.js.map"
+    "254.171e2000.js.map": "/static/js/254.171e2000.js.map"
   },
   "entrypoints": [
     "static/js/runtime.c0985020.js",
-    "static/js/652.3f6238eb.js",
-    "static/js/main.944d7dcd.js"
+    "static/js/254.171e2000.js",
+    "static/js/main.c2206745.js"
   ]
 }
